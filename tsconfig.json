@@ -6,6 +6,9 @@
     "removeComments": true,
     "incremental": true,
     "baseUrl": ".",
+    "paths": {
+      "@amcharts/amcharts5*": ["@amcharts/amcharts5/*"]
+    }
   },
-  "files": ["./src/dom.ts", "./src/index.ts"]
+  "files": ["src/dom.ts", "src/index.ts"]
 }
