@@ -1,0 +1,11 @@
+{
+  "extends": "@ftr/code-standards/configs/tsconfig.json",
+  "compilerOptions": {
+    "declaration": true,
+    "outDir": "${configDir}/dist",
+    "removeComments": true,
+    "incremental": true,
+    "baseUrl": ".",
+  },
+  "files": ["./src/dom.ts", "./src/index.ts"]
+}

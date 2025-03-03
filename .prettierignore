@@ -1,0 +1,7 @@
+.jest
+.terraform
+.vscode
+coverage
+dist
+node_modules
+terraform

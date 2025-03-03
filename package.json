@@ -1,0 +1,19 @@
+{
+  "name": "am5-node-canvas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "packageManager": "yarn@1.22.22+sha512.a6b2f7906b721bba3d67d4aff083df04dad64c399707841b7acf00f6b133b7ac24255f2652fa22ae3534329dc6180534e98d17432037ff6fd140556e2bb3137e",
+  "dependencies": {
+    "@amcharts/amcharts5": "^5.11.1",
+    "canvas": "^3.1.0",
+    "jsdom": "^26.0.0"
+  },
+  "devDependencies": {
+    "@ftr/code-standards": "^29.0.8",
+    "@types/jsdom": "^21.1.7",
+    "@types/node": "^22.13.8",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.2"
+  }
+}
